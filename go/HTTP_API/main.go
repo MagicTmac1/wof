@@ -163,6 +163,7 @@ func HandleFuncGet(AllData []Data) func(w http.ResponseWriter, r *http.Request) 
 }
 func main() {
 	//连接mongodb
+	
 	collection, client := ConnectDB()
 	defer client.Disconnect(context.TODO())
 	//接收bson数据

@@ -1,0 +1,65 @@
+{
+    "OfferId": "o_d81622ae9a",
+    "OfferName": "US-Android-Jackpocket Lottery App[New York][FTD](Direct)",
+    "AppIcon": "https://play-lh.googleusercontent.com/NncaZqI6z6OMOzuIRU7Epm_T_AwxW_YRUlcwCVUENwRQtQ4avlWLaPnxj8BNMTZrEw",
+    "ConvEvent": "UNKNOW",
+    "Platform": "ANDROID",
+    "CountryCode": "US",
+    "PriceMode": "CPI",
+    "Payout": 6.804,
+    "Currency": "USD",
+    "DailyConvCap": 0,
+    "DailyClickCap": 0,
+    "DailyImpCap": 500000,
+    "Package": "com.jackpocket",
+    "AppName": "",
+    "Category": "",
+    "PreviewUrl": "https://play.google.com/store/apps/details?id=com.jackpocket",
+    "Tags": [],
+    "Stability": 10,
+    "RecentStability": 10,
+    "Star": 1,
+    "Direct": false,
+    "IabCats": [
+        "IAB1"
+    ],
+    "Adomain": "https://jackpocket.com",
+    "ClickUrl": "https://trk.wishoffer.com/click?pub_id=pub_wof&offer_id=o_d81622ae9a",
+    "ImpressionUrl": "https://imp.wishoffer.com/impression?pub_id=pub_wof&offer_id=o_d81622ae9a",
+    "Target": {
+        "OsVersion": {
+            "Min": "7"
+        }
+    },
+    "Performance": {
+        "D30": {
+            "ClickNum": 34421,
+            "ConvNum": 0,
+            "Revenue": 0
+        },
+        "D7": {
+            "ClickNum": 9449,
+            "ConvNum": 0,
+            "Revenue": 0
+        },
+        "D3": {
+            "ClickNum": 4437,
+            "ConvNum": 0,
+            "Revenue": 0
+        },
+        "D1": {
+            "ClickNum": 2700,
+            "ConvNum": 0,
+            "Revenue": 0
+        }
+    },
+    "FrequencyCtrl": 10080,
+    "AttributionSys": "appsflyer",
+    "Hops": 3,
+    "Status": "ACTIVE",
+    "Desc": "",
+    "Kpi": "<p><strong>Conversion Point: FTD<br />\r\nMMP: AppsFlyer<br />\r\nProtect360 will be used for validation.&nbsp;<br />\r\nState Targeting: New York</strong><br />\r\nAny fraud detected may result in no payment of all the conversions and punishment.<br />\r\nAny spoofing activity detected may result in no payment and punishment.&nbsp;<br />\r\nTraffic without in-app events will be identified as fraudulent and not be paid.<br />\r\nTraffic with CTIT &lt;30s can be deducted due to Click Injection Fraud.<br />\r\nPublishers with sub ID containing more than 10% conversions with CTIT&lt;20s may not be paid.<br />\r\nTraffic with CTIT &gt;2h can be deducted due to Click Spamming/Flooding Fraud.<br />\r\nTraffic with LAT Device Rate&gt;40% can be deducted due to Fraud.<br />\r\nFor CPE campaigns, if click to event time&lt;5minutes or 10minutes for certain campaigns, conversions may be rejected due to SDK spoofing.<br />\r\nIf new device rate &gt;30%, conversions may be scrubbed.<br />\r\nThere may be no payment if the OS version are much older than the latest version.<br />\r\nThere may be no payment if the app version is older than the one on the store.<br />\r\nIf CR&gt;3%(Sub ID level), all conversions may be considered as incent/fraud traffic and rejected without report.<br />\r\nWe may not provide any screenshot/details other than what we have when scrubbing conversions.<br />\r\n&nbsp;</p>",
+    "AssignDt": "2021-09-12 03:40:58",
+    "CreateTs": 1631388729,
+    "ModifyTs": 1659709392
+}
